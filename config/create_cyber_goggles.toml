@@ -1,0 +1,18 @@
+[goggles]
+enhancedInfo = true
+hideStaticKineticInfo = false
+renderExtraItems = true
+enableKineticEffect = true
+preciseNumbers = true
+[gameMode]
+enableInSurvival = true
+enableInCreative = true
+enableInSpectator = true
+enableInAdventure = true
+[armor]
+removeNetheriteFirstPerson = false
+removeDivingBootsAffect = false
+[other]
+forcedBackend = false
+nonrandomScrap = true
+nbtFix = false

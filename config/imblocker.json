@@ -1,0 +1,12 @@
+{
+  "screenWhitelist": [
+    "net.minecraft.class_473",
+    "net.minecraft.class_498",
+    "journeymap.client.ui.waypoint.WaypointEditor",
+    "com.ldtteam.blockout.BOScreen",
+    "net.minecraft.class_7744"
+  ],
+  "enableScreenRecovering": false,
+  "recoveredScreens": [],
+  "chatCommandInputType": "IM_ENG_STATE"
+}

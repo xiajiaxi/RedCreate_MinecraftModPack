@@ -1,0 +1,45 @@
+
+#.
+#Create: Blazing Hot's Recipes' settings
+[recipes]
+	#.
+	#[in droplets]
+	#(1 milibucket = 81 droplets)
+	#The amount of fuel that Blaze Mixer uses for each shapeless crafting recipe.
+	#Range: > 0
+	blazeShapelessFuelUsage = 2025
+	#.
+	#Allow brewing recipes in the Blaze Mixer
+	allowBrewingInBlazeMixer = true
+	#.
+	#Allow regular mixing recipes in the Blaze Mixer
+	allowMixingInBlazeMixer = true
+	#.
+	#[in droplets]
+	#(1 milibucket = 81 droplets)
+	#The amount of fuel that Blaze Mixer uses per 100 processing ticks (default speed) of regular mixing recipes.
+	#Does not affect melting recipes.
+	#Range: > 0
+	blazeMixingFuelUsage = 2025
+	#.
+	#Allow shapeless crafting recipes in the Blaze Mixer
+	allowShapelessInBlazeMixer = true
+	#.
+	#[in droplets]
+	#(1 milibucket = 81 droplets)
+	#The amount of fuel that Blaze Mixer uses for each brewing recipe.
+	#Range: > 0
+	blazeBrewingFuelUsage = 2025
+	#.
+	#Fueled Blaze Mixer's speed multiplier when processing brewing recipes
+	#Range: 1.0 ~ 3.4028234663852886E38
+	blazeBrewingSpeedMultiplier = 2.0
+	#.
+	#Fueled Blaze Mixer's speed multiplier when processing mixing recipes
+	#Range: 1.0 ~ 3.4028234663852886E38
+	blazeMixingSpeedMultiplier = 2.0
+	#.
+	#Fueled Blaze Mixer's speed multiplier when processing shapeless crafting recipes
+	#Range: 1.0 ~ 3.4028234663852886E38
+	blazeShapelessSpeedMultiplier = 2.0
+
